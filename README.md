@@ -52,9 +52,9 @@ A professional portfolio website showcasing my skills, experience, projects, and
 - Resume download functionality
 - Contact form integration
 - Mobile-first responsive design
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbereTruphenah&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbereTruphenah&layout=compact)
+
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/truphenahabere/
 - Portfolio: https://my-portfolio-seven-zeta-49.vercel.app/
