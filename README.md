@@ -14,6 +14,7 @@ Software Engineer | Computer Science Graduate | Full-Stack Web Develop | Microso
 - Database: SQL Server, MySQL, MongoDB
 - ERP: Microsoft Dynamics 365 Business Central
 - Tools: Git, GitHub, VS Code
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbereTruphenah&layout=compact)
 
 ## Featured Projects
 ### SmartCare Remote Patient Monitoring System
@@ -52,8 +53,6 @@ A professional portfolio website showcasing my skills, experience, projects, and
 - Resume download functionality
 - Contact form integration
 - Mobile-first responsive design
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbereTruphenah&layout=compact)
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/truphenahabere/
