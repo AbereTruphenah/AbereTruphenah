@@ -4,7 +4,7 @@ Software Engineer | Computer Science Graduate | Full-Stack Web Develop | Microso
 
 ## About Me
 - 🎓 BSc Computer Science
-- 💻 Skilled in AL, C#, JavaScript, React, Next.js, SQL, and ERP Systems
+- 💻 Skilled in AL, C#, JavaScript, React, Next.js, SQL, and ERP Systems (Microsoft Dynamics 365 Business Central)
 - 🌱 Currently learning advanced Business Central development and C#
 
 ## Tech Stack
@@ -13,6 +13,8 @@ Software Engineer | Computer Science Graduate | Full-Stack Web Develop | Microso
 - Backend: ASP.NET Core, Node.js, Express.js
 - Database: SQL Server, MySQL, MongoDB
 - ERP: Microsoft Dynamics 365 Business Central
+- Design: Figma, Canva
+- Data Analytics: Microsoft PowerBI, EXCEL
 - Tools: Git, GitHub, VS Code
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbereTruphenah&layout=compact)
